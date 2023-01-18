@@ -6,6 +6,7 @@ Heres a shoutout command that both the streamer and moderators can use from the 
 ## Things to note:
   * Make sure you disable any shoutout commands(manual trigger) in order for this to work.
   * You can also use the **Viewer arrived** trigger in the events section to allow for an auto shoutout with this function
+  * If you want to test it as the streamer, you need to make sure that you go into the yes command and uncheck ignore streamer. Otherwise you need another account to test it
 
 Credits to cky for the approval of playing of clips.
 
