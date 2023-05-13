@@ -4,7 +4,6 @@ Shoutout command with $target approval for playing of video clip
 Heres a shoutout command that both the streamer and moderators can use from the trigger **!so @username**. This will also ask the target if they would like a random twitch clip to play. They must reply with the word **yes** in the allotted time (30 seconds) or nothing will happen.
 
 ## Things to note:
-  * While Loops must be enabled for this command to work
   * Make sure you disable any shoutout commands(manual trigger) in order for this to work.
   * You can also use the **Viewer arrived** trigger in the events section to allow for an auto shoutout with this function
   * If you want to test it as the streamer, you need to make sure that you go into the yes command and uncheck ignore streamer. Otherwise you need another account to test it
