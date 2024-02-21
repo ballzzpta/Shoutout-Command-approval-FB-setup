@@ -5,13 +5,13 @@ Heres a shoutout command that both the streamer and moderators can use from the 
 
 ## Auto shout out support
 In this version, the streamer and moderators now can run a command to add or remove a target from the auto-shoutout list. If a user is on this list, they will now receive a shout out with their respected response for a clip being played. 
-!asoadd @target will add the user to the auto-shoutout list
-!asosub @target will remove the user from the auto-shoutout list
+ * !asoadd @target will add the user to the auto-shoutout list
+ * !asosub @target will remove the user from the auto-shoutout list
 
 ## Changing clip approval
 Users can change their stored response with the following commands
-!optin allows a user to start sharing their clips if their previous response was no
-!optout allows a user to stop sharing their clips if their previous response was yes
+ * !optin allows a user to start sharing their clips if their previous response was no
+ * !optout allows a user to stop sharing their clips if their previous response was yes
 
 ## Things to note:
   * Make sure you disable the following commands or change the names to not interfere in order for this to work.
